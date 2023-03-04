@@ -1,0 +1,8 @@
+# ignore all garbage
+*.tmp
+*._old
+*._backup
+Thumbs.db
+*.DS_Store
+*.png_backup
+*.html_old
